@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER":"ankit",
+        "MONGO_PASSWORD":"1181",
+        "MONGO_DEFAULT_DATABASE":"shop",
+        "STRIPE_KEY":"[Stripe SK Key]"
+    }
+}
